@@ -22,19 +22,19 @@ const projects = [
     image : "image/body-mass-index-control-abstract-260nw-1918129091.webp",
     title : "BMI",
     description : "This project is about to calculate the body mass index(BMI)",
-    src: "",
+    src: "https://pasang77.github.io/bmi-calc/",
 },
 {
     image : "image/flower.jpg",
     title : " Animated Navbar",
     description : "A responsive navigation bar with smooth animation and",
-    src: "",
+    src: "https://pasang77.github.io/bmi-calc/",
 },
 {
 image : "image/download (1).jpeg",
 title : " Animated Navbar",
 description : "A responsive navigation bar with smooth animation and",
-src:"",
+src:"https://pasang77.github.io/bmi-calc/",
 },
 ];
 const container = document.getElementById("project-container");
